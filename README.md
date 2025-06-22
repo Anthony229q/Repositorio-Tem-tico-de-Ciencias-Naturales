@@ -8,7 +8,7 @@ Este repositorio de Ciencias Naturales corresponde a una parte fundamental de la
 ![App Screenshot](https://github.com/Anthony229q/Repositorio-Tem-tico-de-Ciencias-Naturales/blob/main/Ciencias_Naturales-2.jpg)
 
 
-## Features
+## Así se subdividen las Ciencias Naturales:
 
 -**Las ciencias naturales**, que buscan entender el funcionamiento del universo y el mundo que nos rodea, se dividen principalmente en las siguientes ramas.
 
