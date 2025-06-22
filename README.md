@@ -11,7 +11,7 @@ Este repositorio de Ciencias Naturales corresponde a una parte fundamental de la
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](ciencias-naturales2)
 
 
 ## Features
