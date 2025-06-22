@@ -4,16 +4,14 @@
 Este repositorio de Ciencias Naturales corresponde a una parte fundamental de la educación básica en los estudiantes, por la importancia que tiene de que comprendan el mundo que los rodea, del mismo modo, es adecuado fomentar en los estudiantes la curiosidad científica y habilidades de investigación.
 
 
+## DEMO
+
+[Demo](https://images.app.goo.gl/nckmQG5shcZAbxCU8)
+
+
 ## Screenshots
 
-[demo](versel.app)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![App Screenshot](https://via.placeholder.com/468x300?text=App+screenshot+Here)
 ## Features
 
 -**Las ciencias naturales**, que buscan entender el funcionamiento del universo y el mundo que nos rodea, se dividen principalmente en las siguientes ramas.
