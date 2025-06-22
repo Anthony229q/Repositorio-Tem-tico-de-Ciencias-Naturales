@@ -3,13 +3,7 @@
 
 Este repositorio de Ciencias Naturales corresponde a una parte fundamental de la educación básica en los estudiantes, por la importancia que tiene de que comprendan el mundo que los rodea, del mismo modo, es adecuado fomentar en los estudiantes la curiosidad científica y habilidades de investigación.
 
-
-## Screenshots
-
-[demo](versel.app)
-
-
-## Screenshots
+## Las Ciencias Naturales
 
 ![App Screenshot](https://github.com/Anthony229q/Repositorio-Tem-tico-de-Ciencias-Naturales/blob/main/Ciencias_Naturales-2.jpg)
 
