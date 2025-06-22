@@ -11,7 +11,7 @@ Este repositorio de Ciencias Naturales corresponde a una parte fundamental de la
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Anthony229q/Repositorio-Tem-tico-de-Ciencias-Naturales/blob/main/ciencias-2-estudiante.png)
+![App Screenshot](https://github.com/Anthony229q/Repositorio-Tem-tico-de-Ciencias-Naturales/blob/main/Ciencias_Naturales-2.jpg)
 
 
 ## Features
