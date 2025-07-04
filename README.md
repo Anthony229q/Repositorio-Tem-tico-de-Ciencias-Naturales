@@ -23,6 +23,16 @@ Se divide en química orgánica, química inorgánica, química analítica, bioq
 
 -**Astronomía** se dedica al estudio de los cuerpos celestes (estrellas, planetas, galaxias, cometas, asteroides, etc.) y los fenómenos que ocurren fuera de la atmósfera terrestre.
 
+
+## **MISIÓN**
+
+Nuestra misión es facilitar el acceso a recursos educativos interactivos y actualizados en ciencias naturales, para inspirar la curiosidad científica, fomentar el pensamiento crítico y enriquecer el proceso de enseñanza-aprendizaje en el centro educativo básico general. Buscamos empoderar a estudiantes y docentes con herramientas que les permitan explorar, investigar y comprender el mundo natural de manera dinámica y accesible.
+
+## **VISIÓN**
+
+Ser el referente principal y la plataforma central para la exploración de las ciencias naturales dentro del centro educativo, reconocido por su contenido innovador, su facilidad de uso y su impacto positivo en el desarrollo de futuras generaciones de pensadores críticos y ciudadanos conscientes del medio ambiente. Aspiramos a cultivar una comunidad educativa apasionada por la ciencia y comprometida con el aprendizaje continuo.
+
+
 ## Libros de CEBG DE 1 A 9 en PDF
 
 [Primer Grado](https://drive.google.com/file/d/1viiwBcKzywXSE6od_qoSvRJHTw0B7Wz4/view?usp=sharing)
