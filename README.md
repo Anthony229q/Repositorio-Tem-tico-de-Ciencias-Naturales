@@ -53,3 +53,9 @@ Ser el referente principal y la plataforma central para la exploración de las c
 
 [Noveno grado](https://drive.google.com/file/d/12-9-22HaVAaUQ1wiFNNPzDlZUdLTplVb/view?usp=sharing)
 
+
+
+<div style="display: flex;">
+      <img src="https://github.com/Anthony229q/Repositorio-Tem-tico/blob/main/gmail.png" alt="gmail" width="300">
+      <p>COMUNÍCATE CON NOSOTROS POR ESTA CUENTA: cebgcorozal@gmail.com.</p>
+    </div>
